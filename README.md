@@ -1,5 +1,7 @@
 Univ : Korea University
+
 Lecture : 정보추출과텍스트마이닝
+
 Project Name : BingSearchTest
 
 BingSearchTest
